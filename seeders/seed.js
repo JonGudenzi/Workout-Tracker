@@ -3,7 +3,7 @@ let db = require("../models");
 require ("dotenv").config();
 
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost/deep-thoughts',
+  process.env.MONGODB_URI || 'mongodb://localhost/workouts',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
