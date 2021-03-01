@@ -190,27 +190,6 @@ function calculateTotalWeight(data) {
 
   return totals;
 }
-////////////////////////////////////
-function calculateTotalDuration(data) {
-  let totals = [];
-
-  data.forEach((workout) => {
-    const workoutTotal = workout.exercises.reduce((total, { type, durations }) => {
-      if (type === 'cardio') {
-        return total + durations;
-      } else {
-        return total;
-      }
-    }, 0);
-
-    totals.push(workoutTotal);
-  });
-
-  return totals;
-}
-///////////////////
-// let durations = data.map(({ totalDuration }) => totalDuration);
-///////////////////////////////////////
 
 function workoutNames(data) {
   let workouts = [];
