@@ -1,8 +1,8 @@
 # Workout-Tracker
 
-[CLICK HERE to launch the Burger-Logger app!](https://workout-tracker-gudenzi.herokuapp.com/?id=603adba19d58a50015b1d915)
+[CLICK HERE to launch the Workout-Tracker app!](https://workout-tracker-gudenzi.herokuapp.com/?id=603adba19d58a50015b1d915)
 
-[CLICK HERE to view the Burger-Logger Repo!](https://github.com/JonGudenzi/Workout-Tracker)
+[CLICK HERE to view the Workout-Tracker Repo!](https://github.com/JonGudenzi/Workout-Tracker)
 
 [You can also find these links in my Portfolio that you can view by clicking this link](https://jongudenzi.github.io/Portfolio/)
 
